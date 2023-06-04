@@ -27,7 +27,7 @@ jobs:
         with:
           name: datavigya
           runtime: java11
-          project_id: infra-datavigya
+          project_id: optimal-chimera-388113
           entry_point: functions.helloworld
           timeout: 250
 
